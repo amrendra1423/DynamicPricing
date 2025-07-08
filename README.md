@@ -141,7 +141,7 @@ price = base_price × (1 + λ × NormalizedDemand)
 
 ---
 ### 🏗️ Architecture Diagram
-![Workflow Diagram](architecture_diagram.png)
+![Workflow Diagram](Architecture_diagram.png)
 
 ---
 ### 🚀 Future Improvements
