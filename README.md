@@ -1,6 +1,6 @@
-# 🚗 Dynamic Parking Pricing System (Real-time with Pathway & Bokeh)
+# 🏎️ Dynamic Parking Pricing System (Real-time with Pathway & Bokeh)
 This project implements a real-time dynamic parking pricing model that adjusts parking fees based on factors like demand, traffic, queue length, special events, and vehicle type. The goal is to optimize resource usage, reduce congestion, and improve user experience by simulating real-world parking dynamics using streaming data.
-## 📌 Key Features
+## 📍📍 Key Features
 
 - ⏱️ **Real-time processing** using [Pathway](https://github.com/pathwaycom/pathway)
 - 📊 **Interactive price visualizations** using Bokeh + Panel
@@ -11,7 +11,7 @@ This project implements a real-time dynamic parking pricing model that adjusts p
 
 The project uses a **simulated real-time dataset** that mimics the behavior of multiple city parking lots across different conditions.
 
-### 🔸 Source File
+### 🟥 Source File
 - **File Name**: `dataset.csv`
 - **Format**: CSV (Comma-Separated Values)
 - **Rows**: 18,368
